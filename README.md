@@ -18,5 +18,6 @@
 
     -  В большинстве случаев можно оставить настройки по умолчанию.
     -  Обратите внимание на опцию выбрать редактор по умолчанию — по умолчанию это обычно Vim или Notepad++.
-    -  В разделе "Настройки PATH" выберите "Git from the command line and also from 3rd-party software" (это добавит Git в переменную окружения PATH).
+    -  В разделе "Настройки PATH" выберите "Git from the command line and also from 3rd-party software" 
+        (это добавит Git в переменную окружения PATH).
 

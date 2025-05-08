@@ -1,6 +1,7 @@
 # Github_For_Starter-[Students]-Git|Github
 
-Шаги по установке Git через CMD (на Windows):<br>
+##Шаги по установке Git через CMD (на Windows):##
+<br>
 
 
 [x]: Загрузите установочный файл Git: 

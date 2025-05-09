@@ -1,4 +1,7 @@
+
 # Github_For_Starter-[Students]-Git|Github
+
+![Watchdogs](https://github.com/RobertoGol/Lessons/blob/main/watch-dogs-2-golden-gate-wallpaper-2560x1080_14.jpg width="500" height="300")
 
 <br>
 <br>
@@ -198,8 +201,8 @@
 >   Если `git pull` обнаружит, что вы и кто-то другой изменили одни и те же строки в одних и тех же файлах, произойдет **конфликт слияния**.<br>
 >      Git сообщит вам об этом, и вам нужно будет вручную разрешить эти конфликты в ваших файлах.
 
-
-
+## Давайте добавлю немного отсебятинки:  ##
+![Watchdogs](https://github.com/RobertoGol/Lessons/blob/main/watch-dogs-2-golden-gate-wallpaper-2560x1080_14.jpg)
   
 
 

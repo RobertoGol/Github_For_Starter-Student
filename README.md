@@ -6,7 +6,11 @@
 >>       поищите на форуме [Stack Overflow](https://stackoverflow.com/questions)
 >>       и сайте офицального мануала [Github_Docs](https://docs.github.com/en/get-started)
 >>       прошу быть внимательными в прочтении и да на форуме правильные ответы помечаются галочкой как: :heavy_check_mark:
+
+
 <br>
+<br>
+
 ### Шаги по установке Git через CMD (на Windows): ###
 <br>
 

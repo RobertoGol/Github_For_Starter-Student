@@ -1,8 +1,8 @@
 
 # Github_For_Starter-[Students]-Git|Github
 
-[Watchdogs](https://github.com/RobertoGol/Lessons/blob/main/watch-dogs-2-golden-gate-wallpaper-2560x1080_14.jpg width="500" height="300")
-<img src="/[images/picture.jpg](https://github.com/RobertoGol/Lessons/blob/main/watch-dogs-2-golden-gate-wallpaper-2560x1080_14.jpg)" alt="Описание изображения" width="500" height="300">
+[Watchdogs](https://github.com/RobertoGol/Lessons/blob/main/1920x1080-522420-DEDSEC-Watch-Dogs-Watch-Dogs-2-1080P.jpg)
+
 
 
 <br>

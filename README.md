@@ -207,13 +207,11 @@
 ![Watchdogs](https://github.com/RobertoGol/Lessons/blob/main/watch-dogs-2-golden-gate-wallpaper-2560x1080_14.jpg)
   [`dedsec-github-theme-Linux`](https://github.com/VandalByte/dedsec-grub2-theme)
 
-<br><br>
+<br>
 
 ***Это для людей которые любят позаниматься удобными вещями.***
 
-                        <br><br>
-
-                        **(^///^)**
+                                      **(^///^)**
 
 
 

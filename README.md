@@ -1,5 +1,8 @@
 # Github_For_Starter-[Students]-Git|Github
+
 <br>
+<br>
+
 > [!CAUTION]
 >
 > [x] ***В данном файле описываются проблемы которые были лично у меня***

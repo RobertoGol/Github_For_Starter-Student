@@ -203,6 +203,10 @@
 >   Если `git pull` обнаружит, что вы и кто-то другой изменили одни и те же строки в одних и тех же файлах, произойдет **конфликт слияния**.<br>
 >      Git сообщит вам об этом, и вам нужно будет вручную разрешить эти конфликты в ваших файлах.
 
+**Добавка для общей информации**
+[`Создание постоянной ссылки на фрагмент кода`](https://gclnk.com/J8J0BRKu)
+[`Вставка изображений в Readme.md`](https://gclnk.com/fkrPOrYF)
+
 ## Давайте добавлю немного отсебятинки:  ##
 ![Watchdogs](https://github.com/RobertoGol/Lessons/blob/main/watch-dogs-2-golden-gate-wallpaper-2560x1080_14.jpg)
   [`dedsec-github-theme-Linux`](https://github.com/VandalByte/dedsec-grub2-theme)

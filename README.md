@@ -7,8 +7,8 @@
 >
 > [x] ***В данном файле описываются проблемы которые были лично у меня***
 >       *прошу не кидаться тапками если вы чего-то не найдете*
->       поищите на форуме [Stack Overflow](https://stackoverflow.com/questions)
->       и сайте офицального мануала [Github_Docs](https://docs.github.com/en/get-started)
+>       поищите на форуме [`Stack Overflow`](https://stackoverflow.com/questions)
+>       и сайте офицального мануала [`Github_Docs`](https://docs.github.com/en/get-started)
 >       прошу быть внимательными в прочтении и да на форуме правильные ответы помечаются галочкой как: :heavy_check_mark:
 
 

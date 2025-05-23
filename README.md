@@ -220,7 +220,11 @@
 ***Это для людей которые любят позаниматься "удобными" вещями.***
 <br>
 советую Compact и	HackerDen
-
+<br>
+<br>
+If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] |
+<br>
+<br>
                                       **(^///^)**
 
 
